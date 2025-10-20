@@ -17,3 +17,4 @@ package-lock.json
 vendor/
 .bundle/
 _site/
+_site/
