@@ -1,0 +1,23 @@
+current directory: /Users/antoniaaffinito/Desktop/Academic-Website-2/vendor/bundle/ruby/3.4.0/gems/json-2.12.2/ext/json/ext/parser
+/opt/homebrew/opt/ruby/bin/ruby extconf.rb
+checking for rb_enc_interned_str() in ruby.h... yes
+checking for rb_hash_new_capa() in ruby.h... yes
+checking for rb_hash_bulk_insert() in ruby.h... yes
+checking for strnlen() in string.h... yes
+checking for whether -std=c99 is accepted as CFLAGS... yes
+creating Makefile
+
+current directory: /Users/antoniaaffinito/Desktop/Academic-Website-2/vendor/bundle/ruby/3.4.0/gems/json-2.12.2/ext/json/ext/parser
+make DESTDIR\= sitearchdir\=./.gem.20250525-22551-96vfnk sitelibdir\=./.gem.20250525-22551-96vfnk clean
+
+current directory: /Users/antoniaaffinito/Desktop/Academic-Website-2/vendor/bundle/ruby/3.4.0/gems/json-2.12.2/ext/json/ext/parser
+make DESTDIR\= sitearchdir\=./.gem.20250525-22551-96vfnk sitelibdir\=./.gem.20250525-22551-96vfnk
+compiling parser.c
+linking shared-object json/ext/parser.bundle
+
+current directory: /Users/antoniaaffinito/Desktop/Academic-Website-2/vendor/bundle/ruby/3.4.0/gems/json-2.12.2/ext/json/ext/parser
+make DESTDIR\= sitearchdir\=./.gem.20250525-22551-96vfnk sitelibdir\=./.gem.20250525-22551-96vfnk install
+/usr/bin/install -c -m 0755 parser.bundle ./.gem.20250525-22551-96vfnk/json/ext
+
+current directory: /Users/antoniaaffinito/Desktop/Academic-Website-2/vendor/bundle/ruby/3.4.0/gems/json-2.12.2/ext/json/ext/parser
+make DESTDIR\= sitearchdir\=./.gem.20250525-22551-96vfnk sitelibdir\=./.gem.20250525-22551-96vfnk clean
