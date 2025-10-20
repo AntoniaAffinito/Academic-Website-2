@@ -1,6 +1,7 @@
 # Ignore the contents of the _site directory and other cache directories
-_site/
+#_site/
 .sass-cache/
+git add _site .gitignore
 
 # Ignore the directory for local files during development
 local/
